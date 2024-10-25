@@ -59,7 +59,7 @@ This project was implemented using:
 - Pandas: For data manipulation and cleaning.
 - Matplotlib & Seaborn: For creating insightful visualizations.
 - Jupyter Notebook: As the environment for running the code and showcasing the process.
-- Power BI: For creating interactive dashboards
+- Power BI: For creating interactive dashboards.
 
 **🚀 Project Outcomes**
 ---
