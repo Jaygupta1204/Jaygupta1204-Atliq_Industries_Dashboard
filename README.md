@@ -1,5 +1,4 @@
-# Jaygupta1204-Atliq_Industries_Dashboard
-AtliQ Hospitality Data Analysis Project
+# AtliQ Hospitality Data Analysis Project
 
 **📊 Overview**
 ---
